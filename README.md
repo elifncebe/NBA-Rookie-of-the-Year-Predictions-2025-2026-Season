@@ -1,6 +1,4 @@
-# NBA-Rookie-of-the-Year-Predictions-2025-2026-Season
-
-# 🏀 NBA Future Analytics Stars Technical Challenge  
+# 🏀 NBA Rookie of the Year
 ### Predicting the 2025–26 Rookie of the Year (ROY)
 
 This project presents an end-to-end workflow for forecasting the NBA’s **Rookie of the Year (ROY)** using publicly available historical data from the official NBA Stats API (`nba_api`). The goal is to build a reproducible and data-driven model that identifies which rookies in a target season are most likely to win the award.
